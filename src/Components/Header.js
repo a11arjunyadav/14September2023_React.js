@@ -2,6 +2,9 @@ import React from 'react'
 
 export default function Header() {
   return (
-    <header>Header Component</header>
+    <header>
+        <div>Header Component</div>
+        <div>980*140</div>
+    </header>
   )
 }

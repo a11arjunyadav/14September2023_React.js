@@ -2,6 +2,9 @@ import React from 'react'
 
 export default function Aside() {
   return (
-    <aside>Header Component</aside>
+    <aside>
+        <div>Aside Component</div>
+        <div>270*450</div>
+    </aside>
   )
 }

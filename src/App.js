@@ -1,8 +1,9 @@
  // 1. Imaport area
-import Header from './Components/Header';
-import Aside from './Components/Aside';
-import Section from './Components/Section';
-import Footer from './Components/Footer';
+
+import Aside from "./Components/Aside";
+import Footer from "./Components/Footer";
+import Header from "./Components/Header";
+import Section from "./Components/Section";
 
 // 2. function defination area
 function App() {
